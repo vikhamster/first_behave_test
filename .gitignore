@@ -1,0 +1,11 @@
+.venv
+.noseids
+*.pyc
+*.pyo
+*.swp
+nosetests.xml
+.coverage
+*.egg-info
+doc/coverage
+__pycache__
+.ropeproject
