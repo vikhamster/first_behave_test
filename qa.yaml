@@ -1,0 +1,13 @@
+server_name: 5.9.64.86
+
+active_sender:
+    sender_name: vik.hamsterqa+s250401t@gmail.com
+    sender_password: q1w2e3r4
+
+inactive_sender:
+    sender_name: vik.hamsterqa+s250401t02@gmail.com
+    sender_password: q1w2e3r4
+
+message:
+    to_email: viktor@smtp.com
+    subject: 'Behave tests'
